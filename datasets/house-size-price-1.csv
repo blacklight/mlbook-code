@@ -1,4 +1,4 @@
-size [m2],price [k$]
+size,price
 50,100
 56,125
 57,160
