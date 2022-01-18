@@ -1,0 +1,3 @@
+[submodule "src/ir_detect"]
+	path = src/ir_detect
+	url = https://github.com/BlackLight/imgdetect-utils.git
